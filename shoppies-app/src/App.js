@@ -1,8 +1,8 @@
 import React from 'react';
-import Header from './Components/Header.js';
+import Header from './components/Header';
 import './tailwind.css';
-import SearchMovies from './Components/Search.js';
-import Results from './Components/Results';
+import SearchMovies from './components/Search';
+//import Results from './components/Results';
 
 function App() {
 
